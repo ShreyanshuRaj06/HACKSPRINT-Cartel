@@ -16,6 +16,9 @@ env/
 # IDE
 .vscode/
 .idea/
+argv.json
+extensions/
+*.zip
 
 # OS files
 .DS_Store
