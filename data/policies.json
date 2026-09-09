@@ -1,0 +1,72 @@
+[
+  {
+    "policy_id": "POL001",
+    "category": "KYC",
+    "policy_name": "Know Your Customer Policy",
+    "title": "Customer Identity Verification",
+    "content": "Customers must complete applicable identity and address verification procedures before accessing services that require KYC compliance. The bank may request valid identity, address, and other supporting documents."
+  },
+  {
+    "policy_id": "POL002",
+    "category": "Security",
+    "policy_name": "Authentication Security Policy",
+    "title": "Protection of Authentication Credentials",
+    "content": "Customers must keep passwords, PINs, CVVs, OTPs, and other authentication credentials confidential. Bank representatives will not ask customers to disclose authentication credentials through unsolicited calls, messages, or emails."
+  },
+  {
+    "policy_id": "POL003",
+    "category": "Fraud",
+    "policy_name": "Unauthorized Transaction Policy",
+    "title": "Reporting Unauthorized Transactions",
+    "content": "Customers should report unauthorized or suspicious transactions immediately through official bank channels. The bank may request transaction details and supporting information while investigating a reported incident."
+  },
+  {
+    "policy_id": "POL004",
+    "category": "Privacy",
+    "policy_name": "Customer Data Privacy Policy",
+    "title": "Protection of Customer Information",
+    "content": "Customer information should be accessed and processed only for authorized banking purposes. Personal and financial information must not be disclosed to unauthorized individuals."
+  },
+  {
+    "policy_id": "POL005",
+    "category": "Account",
+    "policy_name": "Account Closure Policy",
+    "title": "Closing a Bank Account",
+    "content": "Customers requesting account closure must submit the required closure request through an authorized banking channel. Outstanding dues, pending transactions, and linked services may need to be resolved before closure."
+  },
+  {
+    "policy_id": "POL006",
+    "category": "Loans",
+    "policy_name": "Loan Repayment Policy",
+    "title": "Loan Repayment",
+    "content": "Borrowers must make scheduled loan repayments according to the repayment schedule. Delayed payments may result in applicable charges and may affect the customer's credit profile."
+  },
+  {
+    "policy_id": "POL007",
+    "category": "Cards",
+    "policy_name": "Lost Card Policy",
+    "title": "Lost or Stolen Card",
+    "content": "Customers should report lost or stolen cards immediately and request that the affected card be blocked. A replacement card may be issued after completing the required verification."
+  },
+  {
+    "policy_id": "POL008",
+    "category": "Dispute",
+    "policy_name": "Transaction Dispute Policy",
+    "title": "Transaction Disputes",
+    "content": "Customers may raise disputes for eligible transactions through authorized banking channels. The bank may require transaction references and supporting details to investigate the dispute."
+  },
+  {
+    "policy_id": "POL009",
+    "category": "Access",
+    "policy_name": "Customer Account Access Policy",
+    "title": "Authorized Account Access",
+    "content": "Customer account information may be accessed only after appropriate authentication and authorization. Sensitive financial information must not be disclosed to unauthorized persons."
+  },
+  {
+    "policy_id": "POL010",
+    "category": "Communication",
+    "policy_name": "Official Communication Policy",
+    "title": "Bank Communication Channels",
+    "content": "Customers should use official banking applications, websites, branches, and verified customer support channels for sensitive banking requests. Customers should avoid sharing confidential information through unverified communication channels."
+  }
+]

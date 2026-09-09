@@ -1,0 +1,98 @@
+[
+  {
+    "customer_id": "CUST1001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "9000000001",
+    "date_of_birth": "2001-04-15",
+    "city": "Delhi",
+    "occupation": "Software Engineer",
+    "monthly_income": 85000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1002",
+    "name": "Ananya Verma",
+    "email": "ananya.verma@example.com",
+    "phone": "9000000002",
+    "date_of_birth": "1999-08-22",
+    "city": "Varanasi",
+    "occupation": "Teacher",
+    "monthly_income": 62000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1003",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "phone": "9000000003",
+    "date_of_birth": "1997-12-10",
+    "city": "Hyderabad",
+    "occupation": "Business Analyst",
+    "monthly_income": 95000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1004",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "9000000004",
+    "date_of_birth": "2000-06-18",
+    "city": "Bengaluru",
+    "occupation": "Data Analyst",
+    "monthly_income": 78000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1005",
+    "name": "Kabir Singh",
+    "email": "kabir.singh@example.com",
+    "phone": "9000000005",
+    "date_of_birth": "1995-02-27",
+    "city": "Mumbai",
+    "occupation": "Financial Consultant",
+    "monthly_income": 120000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1006",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com",
+    "phone": "9000000006",
+    "date_of_birth": "2002-11-05",
+    "city": "Chennai",
+    "occupation": "UX Designer",
+    "monthly_income": 68000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1007",
+    "name": "Aditya Gupta",
+    "email": "aditya.gupta@example.com",
+    "phone": "9000000007",
+    "date_of_birth": "1998-09-14",
+    "city": "Lucknow",
+    "occupation": "Product Manager",
+    "monthly_income": 110000,
+    "kyc_status": "Verified",
+    "consent": true
+  },
+  {
+    "customer_id": "CUST1008",
+    "name": "Sneha Rao",
+    "email": "sneha.rao@example.com",
+    "phone": "9000000008",
+    "date_of_birth": "2001-01-30",
+    "city": "Pune",
+    "occupation": "Marketing Executive",
+    "monthly_income": 57000,
+    "kyc_status": "Verified",
+    "consent": true
+  }
+]

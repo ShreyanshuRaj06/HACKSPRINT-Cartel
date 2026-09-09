@@ -1,0 +1,104 @@
+[
+  {
+    "loan_id": "LN001",
+    "loan_name": "Personal Loan",
+    "description": "An unsecured personal loan for personal financial needs such as medical expenses, education, travel, home renovation, or emergency expenses.",
+    "interest_rate": "10.5% - 14.0% per annum",
+    "min_amount": 50000,
+    "max_amount": 1000000,
+    "tenure": "12-60 months",
+    "processing_fee": "1.5% of sanctioned amount",
+    "eligibility": [
+      "Age between 21 and 60 years",
+      "Stable source of income",
+      "Minimum monthly income of ₹25,000",
+      "Valid KYC documents",
+      "Acceptable credit history"
+    ],
+    "documents_required": [
+      "PAN Card",
+      "Aadhaar Card",
+      "Proof of address",
+      "Latest salary slips",
+      "Bank statements"
+    ],
+    "prepayment_allowed": true,
+    "prepayment_charges": "2% of outstanding principal"
+  },
+  {
+    "loan_id": "LN002",
+    "loan_name": "Home Loan",
+    "description": "A secured loan for purchasing, constructing, or renovating a residential property.",
+    "interest_rate": "8.5% - 10.5% per annum",
+    "min_amount": 500000,
+    "max_amount": 10000000,
+    "tenure": "60-360 months",
+    "processing_fee": "0.5% of sanctioned amount",
+    "eligibility": [
+      "Age between 21 and 65 years",
+      "Stable income",
+      "Valid KYC documents",
+      "Suitable credit history",
+      "Property must satisfy bank requirements"
+    ],
+    "documents_required": [
+      "PAN Card",
+      "Aadhaar Card",
+      "Income proof",
+      "Bank statements",
+      "Property documents"
+    ],
+    "prepayment_allowed": true,
+    "prepayment_charges": "No charge for eligible floating-rate loans"
+  },
+  {
+    "loan_id": "LN003",
+    "loan_name": "Education Loan",
+    "description": "A loan designed to finance higher education expenses including tuition fees, examination fees, books, and approved living expenses.",
+    "interest_rate": "9.0% - 11.5% per annum",
+    "min_amount": 50000,
+    "max_amount": 2000000,
+    "tenure": "12-180 months",
+    "processing_fee": "Up to 1% of sanctioned amount",
+    "eligibility": [
+      "Admission to a recognized educational institution",
+      "Indian resident student",
+      "Co-applicant may be required",
+      "Valid KYC documents"
+    ],
+    "documents_required": [
+      "Student identity proof",
+      "Admission letter",
+      "Fee structure",
+      "Academic records",
+      "Co-applicant income documents"
+    ],
+    "prepayment_allowed": true,
+    "prepayment_charges": "No charge after applicable lock-in period"
+  },
+  {
+    "loan_id": "LN004",
+    "loan_name": "Vehicle Loan",
+    "description": "A secured loan for purchasing eligible new or used vehicles.",
+    "interest_rate": "9.25% - 12.5% per annum",
+    "min_amount": 100000,
+    "max_amount": 3000000,
+    "tenure": "12-84 months",
+    "processing_fee": "1% of sanctioned amount",
+    "eligibility": [
+      "Age between 21 and 65 years",
+      "Stable income",
+      "Valid KYC documents",
+      "Acceptable credit history"
+    ],
+    "documents_required": [
+      "PAN Card",
+      "Aadhaar Card",
+      "Income proof",
+      "Bank statements",
+      "Vehicle quotation"
+    ],
+    "prepayment_allowed": true,
+    "prepayment_charges": "2% of outstanding principal"
+  }
+]

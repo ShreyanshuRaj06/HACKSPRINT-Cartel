@@ -1,0 +1,92 @@
+[
+  {
+    "faq_id": "FAQ001",
+    "category": "Account",
+    "question": "How can I open a savings account?",
+    "answer": "A savings account can be opened by completing the account opening application and submitting valid KYC documents such as identity and address proof. The customer may also need to complete verification as required by the bank."
+  },
+  {
+    "faq_id": "FAQ002",
+    "category": "Account",
+    "question": "How can I reset my internet banking password?",
+    "answer": "Use the Forgot Password option on the bank's official internet banking login page. Complete the identity verification process and create a new password. Never share your password or verification codes with anyone."
+  },
+  {
+    "faq_id": "FAQ003",
+    "category": "Debit Card",
+    "question": "What should I do if my debit card is lost or stolen?",
+    "answer": "Immediately block the card through the bank's mobile banking application, internet banking service, or customer support channel. Report the loss promptly and request a replacement card if required."
+  },
+  {
+    "faq_id": "FAQ004",
+    "category": "UPI",
+    "question": "What should I do if a UPI transaction is pending?",
+    "answer": "A pending UPI transaction may take some time to be completed or reversed. Check the transaction status in the banking or UPI application. If the transaction remains unresolved beyond the applicable processing period, raise a dispute through the bank's official support channel."
+  },
+  {
+    "faq_id": "FAQ005",
+    "category": "UPI",
+    "question": "What should I do if money was debited but the UPI transaction failed?",
+    "answer": "Check the transaction status and allow the applicable reversal period. If the amount is not automatically reversed, raise a dispute through the bank's official support channel with the transaction reference number."
+  },
+  {
+    "faq_id": "FAQ006",
+    "category": "Cards",
+    "question": "How can I activate a new debit card?",
+    "answer": "A new debit card can generally be activated through an eligible ATM transaction, mobile banking application, or internet banking service, depending on the bank's available activation methods."
+  },
+  {
+    "faq_id": "FAQ007",
+    "category": "KYC",
+    "question": "Why is KYC required?",
+    "answer": "Know Your Customer (KYC) procedures help banks verify customer identity and address, reduce financial fraud, and comply with applicable regulatory requirements."
+  },
+  {
+    "faq_id": "FAQ008",
+    "category": "Transactions",
+    "question": "How can I check my transaction history?",
+    "answer": "Transaction history can generally be viewed through mobile banking, internet banking, account statements, or other official banking channels."
+  },
+  {
+    "faq_id": "FAQ009",
+    "category": "NEFT",
+    "question": "What is NEFT?",
+    "answer": "NEFT is an electronic funds transfer system used to transfer money between participating bank accounts. Transactions are processed according to the applicable banking settlement mechanism."
+  },
+  {
+    "faq_id": "FAQ010",
+    "category": "RTGS",
+    "question": "What is RTGS?",
+    "answer": "RTGS is a funds transfer system designed primarily for high-value transactions in which transfers are settled individually through the applicable banking infrastructure."
+  },
+  {
+    "faq_id": "FAQ011",
+    "category": "IMPS",
+    "question": "What is IMPS?",
+    "answer": "IMPS is an electronic funds transfer service that enables eligible customers to transfer money between participating bank accounts, subject to applicable limits and service availability."
+  },
+  {
+    "faq_id": "FAQ012",
+    "category": "Fraud",
+    "question": "What should I do if I notice an unauthorized transaction?",
+    "answer": "Report the unauthorized transaction immediately through the bank's official customer support or fraud reporting channel. Secure the affected account or card and follow the bank's instructions for dispute registration."
+  },
+  {
+    "faq_id": "FAQ013",
+    "category": "Mobile Banking",
+    "question": "How can I update my registered mobile number?",
+    "answer": "The registered mobile number can be updated through an eligible branch or authorized banking channel after completing the required identity verification."
+  },
+  {
+    "faq_id": "FAQ014",
+    "category": "Account",
+    "question": "How can I close my bank account?",
+    "answer": "To close an account, submit an account closure request through the bank's authorized channel and complete any required verification. Outstanding dues and linked services may need to be resolved before closure."
+  },
+  {
+    "faq_id": "FAQ015",
+    "category": "Security",
+    "question": "Should I share my OTP with anyone?",
+    "answer": "No. Never share an OTP, PIN, password, CVV, or other authentication credential with anyone, including people claiming to represent the bank."
+  }
+]

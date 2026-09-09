@@ -1,0 +1,82 @@
+[
+  {
+    "fee_id": "FEE001",
+    "category": "Account",
+    "fee_name": "Savings Account Maintenance Fee",
+    "description": "A periodic maintenance fee may apply depending on the account variant and applicable terms.",
+    "amount": "₹0 - ₹300 per quarter",
+    "conditions": "Depends on account type and minimum balance requirements."
+  },
+  {
+    "fee_id": "FEE002",
+    "category": "ATM",
+    "fee_name": "ATM Withdrawal Fee",
+    "description": "A fee may apply when ATM withdrawal limits or applicable free transaction limits are exceeded.",
+    "amount": "₹20 + applicable taxes per transaction",
+    "conditions": "Applicable after the permitted free ATM transactions are exhausted."
+  },
+  {
+    "fee_id": "FEE003",
+    "category": "Transfer",
+    "fee_name": "NEFT Transfer Fee",
+    "description": "A service fee may apply to certain NEFT transactions depending on the account type and transfer channel.",
+    "amount": "₹0 - ₹25 + applicable taxes",
+    "conditions": "Depends on transaction amount and applicable banking terms."
+  },
+  {
+    "fee_id": "FEE004",
+    "category": "Transfer",
+    "fee_name": "RTGS Transfer Fee",
+    "description": "A service fee may apply to eligible RTGS transactions.",
+    "amount": "₹0 - ₹25 + applicable taxes",
+    "conditions": "Depends on transaction amount, channel, and applicable banking terms."
+  },
+  {
+    "fee_id": "FEE005",
+    "category": "Transfer",
+    "fee_name": "IMPS Transfer Fee",
+    "description": "A service fee may apply to certain IMPS transactions.",
+    "amount": "₹0 - ₹15 + applicable taxes",
+    "conditions": "Depends on transaction amount and applicable banking terms."
+  },
+  {
+    "fee_id": "FEE006",
+    "category": "Card",
+    "fee_name": "Debit Card Replacement Fee",
+    "description": "A replacement fee may apply when a debit card needs to be reissued.",
+    "amount": "₹150 + applicable taxes",
+    "conditions": "May vary depending on card variant and reason for replacement."
+  },
+  {
+    "fee_id": "FEE007",
+    "category": "Cheque",
+    "fee_name": "Cheque Bounce Fee",
+    "description": "A fee may be charged when a cheque is returned unpaid.",
+    "amount": "₹400 + applicable taxes",
+    "conditions": "Applicable when a cheque is returned unpaid, subject to account terms."
+  },
+  {
+    "fee_id": "FEE008",
+    "category": "Loan",
+    "fee_name": "Loan Processing Fee",
+    "description": "A processing fee may be charged for evaluating and processing a loan application.",
+    "amount": "Up to 1.5% of sanctioned amount",
+    "conditions": "Varies by loan product."
+  },
+  {
+    "fee_id": "FEE009",
+    "category": "Loan",
+    "fee_name": "Loan Prepayment Fee",
+    "description": "A prepayment charge may apply when a borrower repays an eligible loan before its scheduled maturity.",
+    "amount": "Up to 2% of outstanding principal",
+    "conditions": "Depends on loan product, interest-rate type, and applicable terms."
+  },
+  {
+    "fee_id": "FEE010",
+    "category": "International",
+    "fee_name": "International Transaction Fee",
+    "description": "International card transactions may incur foreign exchange conversion charges and other applicable fees.",
+    "amount": "Up to 3.5% of transaction value",
+    "conditions": "Depends on card variant, transaction type, and applicable exchange-rate terms."
+  }
+]
